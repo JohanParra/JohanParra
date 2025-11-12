@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **parrajohand@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/johan-david-parra-rodr%C3%ADguez-b88165163/](https://www.linkedin.com/in/johan-david-parra-rodr%C3%ADguez-b88165163/)
+- 📄 Know about my experiences [Linkedin]([https://www.linkedin.com/in/johan-david-parra-rodr%C3%ADguez-b88165163/](https://www.linkedin.com/in/johan-parra/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
