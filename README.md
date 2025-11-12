@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">A passionate QA Analyst from Colombia</h3>
 
 - 🔭 I’m currently working on [Habi](https://habi.co/)
