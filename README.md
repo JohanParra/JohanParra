@@ -1,7 +1,5 @@
 <h3 align="center">A passionate QA Analyst from Colombia</h3>
 
-- 🔭 I’m currently working on [Habi](https://habi.co/)
-
 - 🌱 I’m currently learning **Software Engineering, Test automation, software development.**
 
 - 💬 Ask me about **QA testing, Playwrigth.**
